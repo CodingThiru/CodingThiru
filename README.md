@@ -1,4 +1,5 @@
-### Hi there 👋
+### Glad to see you here!** 👋
+I'm a passionate technology enthusiast with a strong foundation in software devlopment coding and a deep interest in technology. I'm constantly exploring new technologies and love to solve complex problems.
 
 <!--
 **CodingThiru/CodingThiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
